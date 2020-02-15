@@ -4,5 +4,7 @@ computador
 esteira
 maquinario
 aborrecimento
-
-
+agua
+barro
+alura
+python
